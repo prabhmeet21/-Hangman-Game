@@ -1,0 +1,12 @@
+java
+stages
+python
+java
+swift
+javascript
+hangman
+programming
+developer
+Aritifical
+input
+output
